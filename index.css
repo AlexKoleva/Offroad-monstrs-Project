@@ -1,0 +1,44 @@
+.bgimage {
+    width:100%;
+    height:500px;
+    background: url("../img/bg-1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+
+}
+.bgimage h1 {
+    color:#343A40;
+    text-shadow: 2px 2px #333;
+
+}
+img{
+    width: 300px;
+    height: 300px;
+
+
+}
+.h1{
+    font-size: 70px;
+    height: 100px;
+
+}
+.moi{
+
+    font-size: 15px;
+    font-weight: normal;
+}
+.footer-custom{
+    background-color: #343A40;
+    color: white;
+    text-align: center;
+    text-decoration: white;
+}
+.jumbo-dark{
+    background-color:#343A40;
+    color: white;
+}
+.jumbo-light{
+    background-color: white;
+    color:#343A40;
+}
